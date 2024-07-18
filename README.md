@@ -1,6 +1,7 @@
 ### Bem vindos(as), ao meu repositório GitHub!
 
-Me chamo Nasser Ramadan e sou um engenheiro Front-End formado pela EBAC, em transição de carreira para a área de desenvolvimento.
+Me chamo Nasser Ramadan e sou um engenheiro Front-End formado pela EBAC, em transição de carreira para a área de desenvolvimento. <br />
+
 Por aqui, demonstro um pouco do que venho aprendendo e aprimorando nesta jornada.
 
 
